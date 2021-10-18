@@ -1,0 +1,29 @@
+*
+{
+  margin-left: 10px;
+}
+div
+{
+  text-align: center;
+  margin: 80px;
+
+}
+
+.btn
+{
+   cursor: pointer;
+  font-size: 60px;
+  box-shadow: 5px 5px 5px 2px black;
+  border-radius: 50px;
+  color: #FF7A33;
+  font-family: serif;
+  background-color: #6833FF;
+
+}
+
+.btn:hover
+{
+   transform:  translate(-9px, -12px);
+    box-shadow: 17px 18px 2px rgb(42, 41, 41);
+    transition: 0.9s;
+}
